@@ -1,0 +1,39 @@
+body {
+	font: 76% Verdana, Arial, sans-serif;
+}
+a {
+	color: #00f
+}
+div#content {
+ 	width: 600px;
+    margin: 0 auto;
+    text-align:center;
+}
+div#advanced {
+	text-align:center;
+	display:none;
+	width:600px;
+	padding:10px 0;
+	border:1px solid #68B0D8;
+	background-color:#C8ECFF;
+}
+div#sample {
+	text-align:center;
+	width: 600px;
+	padding: 10px 0;
+	border:1px solid #68B0D8;
+	background-color: #C8ECFF
+}
+div#info, #stop {
+	text-align:center;
+	width: 600px;
+	padding: 10px 0;
+	border-right:1px solid #68B0D8;
+	border-left:1px solid #68B0D8;
+	border-bottom:1px solid #68B0D8;
+	background-color: #C8ECFF;
+}
+ul {
+	list-style-type:disc;
+	font: 76% Verdana, Arial, sans-serif;
+}
